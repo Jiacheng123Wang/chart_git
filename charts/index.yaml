@@ -28,6 +28,6 @@ entries:
     - https://github.com/prometheus/node_exporter
     - https://github.com/kubernetes/kube-state-metrics
     urls:
-    - https://github.com/Jiacheng123Wang/chart_gi
+    - https://github.com/Jiacheng123Wang/chart_git/tree/gh-pages/charts
     version: 11.11.1
 generated: "2020-08-17T18:39:25.128204673+08:00"
