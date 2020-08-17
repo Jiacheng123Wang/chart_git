@@ -8,7 +8,7 @@ entries:
     digest: 3c8802f520cab175a8faf9f35e37d4f99c79293e08bc76820fb875126d8b0f73
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
-    kubeVersion: ^1.8.0-0
+    kubeVersion: 1.8.0-0
     maintainers:
     - email: zanhsieh@gmail.com
       name: zanhsieh
